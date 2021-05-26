@@ -4,3 +4,5 @@
 ## 使用方法
 1. openframeworksのproject generatorを使用しプロジェクトを作成
 2. project/srcにコピー
+
+![sample](test.png)
